@@ -1,6 +1,6 @@
 ### Unity
 
-# /[Ll]ibrary/
+/[Ll]ibrary/**/*[Cc]ache*/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
